@@ -1,66 +1,58 @@
 # Context Practice
 
-Welcome to the Context Practice section of the App Academy Open project, where you'll hone your skills in understanding and manipulating context in JavaScript.
+Welcome to my exploration of JavaScript context in the Context Practice section of the App Academy Open project! This project is part of my learning journey at App Academy Open, where I've been honing my skills in full-stack development.
 
-## Set Up
-
-To get started with this practice:
+## Setup
 
 1. Clone the starter repository from the [Starter Link](starter-link).
 2. Run `npm install` to install any dependencies.
 
 ## Phases
 
-### Phase 1: Car
+### Phase 1: Car - Revving Up My Understanding
 
-In this phase, you'll create a `Car` class that allows you to set and retrieve the speed of the car.
+In this phase, I'm creating a `Car` class to explore how to set and retrieve the speed of a car.
 
-### Phase 2: Calculator
+### Phase 2: Calculator - Crunching Numbers
 
-The `Calculator` class will enable you to perform basic arithmetic operations and maintain a running total.
+I'm delving into arithmetic operations with the `Calculator` class, mastering basic math and maintaining a running total.
 
-### Phase 3: Dog
+### Phase 3: Dog - Unleashing the Pawsome
 
-You'll work with the `Dog` class to create instances of dogs, change their names, and make them speak.
+With the `Dog` class, I'm naming, changing names, and making dogs speak. It's time to give these furry friends a voice!
 
-### Phase 4: changeContext
+### Phase 4: changeContext - Shifting Perspectives
 
-Learn how to change the context of a function using the `changeContext` function.
+Using the `changeContext` function, I'm learning how to alter the context of a function, gaining a deeper understanding of JavaScript's inner workings.
 
-### Phase 5: bindToAnArg
+### Phase 5: bindToAnArg - Binding Wisdom
 
-With the `bindToAnArg` function, you'll bind arguments to a function to create a new function with preset parameters.
+With `bindToAnArg`, I'm harnessing the power to bind arguments to functions, creating new functions with preset parameters.
 
-### Phase 6: FancyCalculator
+### Phase 6: FancyCalculator - Elevating My Calculation Game
 
-Extend the `Calculator` class to include more advanced operations such as setting the total, calculating the modulo, and squaring.
+Extending the `Calculator` class, I'm tackling advanced operations like setting totals, calculating modulo, and squaring numbers.
 
-### Phase 7: allTheArgs
+### Phase 7: allTheArgs - Embracing Function Flexibility
 
-Using the `allTheArgs` function, you'll manipulate a function to always be invoked with specific arguments.
+By manipulating functions with `allTheArgs`, I'm ensuring they're always invoked with specific arguments, enhancing flexibility and efficiency.
 
-### Phase 8: CallCenter
+### Phase 8: CallCenter - Dialing into Delayed Greetings
 
-The `CallCenter` class allows you to schedule delayed calls to greet clients.
+In the `CallCenter` class, I'm scheduling delayed calls to greet clients, adding a personal touch to customer interactions.
 
-### Phase 9: callOnTarget
+### Phase 9: callOnTarget - Targeted Invocation Mastery
 
-With `callOnTarget`, you'll invoke a function with one object as its context and another object as its argument.
+Mastering the art of targeted function invocation, I'm using `callOnTarget` to execute functions with precise contexts and arguments.
 
-### Phase 10: PartyPlanner
+### Phase 10: PartyPlanner - Planning Memorable Gatherings
 
-Create a `PartyPlanner` class to manage guest lists and throw amazing parties.
+With the `PartyPlanner` class, I'm orchestrating unforgettable events by managing guest lists and throwing epic parties.
 
-### Phase 11: boundFuncTimer
+### Phase 11: boundFuncTimer - Timing Function Calls
 
-The `boundFuncTimer` function invokes a function with a specified delay and context.
+Using `boundFuncTimer`, I'm honing my skills in invoking functions with specific delays and contexts, adding precision to my code.
 
-## Testing
+## Testing My Skills
 
-Each phase includes test specs located in the `test` directory. Run the test specs with the command `npm test <test-file>`.
-
----
-
-Feel free to reach out if you have any questions or need further assistance! Happy coding! 🚀
-
-[starter-link]: <link-to-starter-repo>
+Each phase comes with its own set of test specs located in the `test` directory. I put my skills to the test by running the specs with the command `npm test <test-file>`.
